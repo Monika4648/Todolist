@@ -4,7 +4,7 @@ function TodoList() {
 
 
   const [state, setstate] = useState([
-    "apple","mango"
+    "grapes","mango"
   ])
   const [text, settext] = useState("")
   const [edit, setedit] = useState("")
